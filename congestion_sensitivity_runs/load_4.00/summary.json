@@ -1,0 +1,81 @@
+{
+  "load_factor": 4.0,
+  "load_label": "4.00",
+  "aggregate": {
+    "run_count": 5,
+    "mean_scaled_total_population": 9001.6,
+    "mean_total_capacity": 15156.8,
+    "mean_pop_cap_ratio": 0.5941502251805606,
+    "mean_avg_congestion": 5.489474574206092,
+    "mean_arrival_gap_area": 3245.289388178537,
+    "std_arrival_gap_area": 602.3356251334187,
+    "mean_final_gap": 2871.4
+  },
+  "runs": [
+    {
+      "run_idx": 1,
+      "scaled_total_population": 9076,
+      "total_capacity": 14934.0,
+      "pop_cap_ratio": 0.6077407258604527,
+      "avg_congestion": 6.025735087541992,
+      "avg_congestion_mnl": 3.1913841796856053,
+      "avg_congestion_dij_mnl": 8.86008599539838,
+      "arrival_gap_area": 2374.7465843984132,
+      "final_gap": 1868,
+      "final_arrived_mnl": 1943,
+      "final_arrived_dij_mnl": 75
+    },
+    {
+      "run_idx": 2,
+      "scaled_total_population": 8772,
+      "total_capacity": 15256.0,
+      "pop_cap_ratio": 0.5749868904037756,
+      "avg_congestion": 5.891666188540565,
+      "avg_congestion_mnl": 3.1046009869315583,
+      "avg_congestion_dij_mnl": 8.678731390149572,
+      "arrival_gap_area": 3029.326265389877,
+      "final_gap": 2863,
+      "final_arrived_mnl": 2931,
+      "final_arrived_dij_mnl": 68
+    },
+    {
+      "run_idx": 3,
+      "scaled_total_population": 9172,
+      "total_capacity": 15764.0,
+      "pop_cap_ratio": 0.581832022329358,
+      "avg_congestion": 4.523163005743764,
+      "avg_congestion_mnl": 2.0973302947706163,
+      "avg_congestion_dij_mnl": 6.948995716716912,
+      "arrival_gap_area": 4247.688617531618,
+      "final_gap": 4186,
+      "final_arrived_mnl": 4379,
+      "final_arrived_dij_mnl": 193
+    },
+    {
+      "run_idx": 4,
+      "scaled_total_population": 8964,
+      "total_capacity": 14718.0,
+      "pop_cap_ratio": 0.6090501426824296,
+      "avg_congestion": 5.378457260831525,
+      "avg_congestion_mnl": 2.9380984417044558,
+      "avg_congestion_dij_mnl": 7.818816079958594,
+      "arrival_gap_area": 3262.695225345827,
+      "final_gap": 2514,
+      "final_arrived_mnl": 2652,
+      "final_arrived_dij_mnl": 138
+    },
+    {
+      "run_idx": 5,
+      "scaled_total_population": 9024,
+      "total_capacity": 15112.0,
+      "pop_cap_ratio": 0.5971413446267867,
+      "avg_congestion": 5.628351328372615,
+      "avg_congestion_mnl": 3.257415478046232,
+      "avg_congestion_dij_mnl": 7.9992871786989985,
+      "arrival_gap_area": 3311.9902482269504,
+      "final_gap": 2926,
+      "final_arrived_mnl": 3023,
+      "final_arrived_dij_mnl": 97
+    }
+  ]
+}
